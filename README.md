@@ -20,5 +20,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" alt="opengl" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 </p>
+<div>
+
 [![webRemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=webRemi)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webRemi&layout=compact)
+</div>
